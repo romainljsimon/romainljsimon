@@ -2,7 +2,7 @@
 
 ---
 
-I just finished my PhD in statistical physics at the university of Montpellier, where I created new Monte Carlo methods to efficiently sample molecular glasses. 
+I just finished my PhD in statistical physics at the university of Montpellier, where I created new Monte Carlo methods to efficiently sample (macro)-molecular glasses. 
 During that time I also spent some time developing two open-source projects that I'm still actively working on:
 
 - [Arianna.jl](https://github.com/TheDisorderedOrganization/Arianna.jl): A system-agnostic Monte Carlo framework.
