@@ -10,7 +10,7 @@ During that time I also spent some time developing two open-source projects that
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/romainljsimon/) or by [email](mailto:romainljsimon@gmail.com)
+📫 Reach me: <a href="https://www.linkedin.com/in/romainljsimon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:romainljsimon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <!--
 **romainljsimon/romainljsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
