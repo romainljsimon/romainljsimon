@@ -1,6 +1,4 @@
-<h3 align="center">Hi 👋, I'm Romain</h3>
-
----
+<h1 align="center">Hi 👋, I'm Romain</h1>
 
 I just finished my PhD in statistical physics at the university of Montpellier, where I created new Monte Carlo methods to efficiently sample (macro)-molecular glasses. 
 During that time I also spent some time developing two open-source projects that I'm still actively working on:
